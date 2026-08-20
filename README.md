@@ -19,7 +19,7 @@ Currently, I'm focused on strengthening my **MERN Stack, Java, DSA, SQL, and Sof
 * 🧩 Enjoy solving programming and DSA problems
 * 🎯 Preparing for **Software Development / Full-Stack Developer opportunities**
 
----
+
 ## 🛠️ Technical Skills
 
 <details>
