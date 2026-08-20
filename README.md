@@ -132,37 +132,6 @@ A real-time collaboration platform designed for **team communication, workspaces
 
 </details>
 
----
-
-## 🎓 Education
-
-### 🏫 KIT's College of Engineering, Kolhapur
-
-**Bachelor of Technology — Data Science**
-
-📅 2022 – Present
-📊 **CGPA: 8.35 / 10.0**
-
----
-
-### 🏫 Ligade Patil Jr. College of Science, Karad
-
-**Higher Secondary Certificate (HSC)**
-
-📅 2020 – 2022
-📊 **Percentage: 73.90%**
-
----
-
-### 🏫 The English Medium School, Undale
-
-**Secondary School Certificate (SSC)**
-
-📅 2018 – 2019
-📊 **Percentage: 95.20%**
-
----
-
 ## 📚 Currently Learning
 
 <details>
@@ -211,7 +180,7 @@ I believe in learning by **building real-world projects**, understanding the fun
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="(https://www.linkedin.com/in/madhura-patil-b083972b0/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -219,7 +188,7 @@ I believe in learning by **building real-world projects**, understanding the fun
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="(https://github.com/Madhurapatil234)">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
