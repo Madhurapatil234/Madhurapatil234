@@ -108,7 +108,7 @@ A scalable e-commerce backend focused on **high-performance APIs, efficient data
 
 ### 💬 Real-Time B2B SaaS Collaboration Workspace
 
-**React 19 | TypeScript | Vite | Tailwind CSS | Node.js | Socket.IO | Redis**
+**React 19 | JavaScript | Vite | Tailwind CSS | Node.js | Socket.IO | Redis**
 
 A real-time collaboration platform designed for **team communication, workspaces, channels, and secure collaboration**.
 
