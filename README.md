@@ -1,209 +1,223 @@
-# 👋 Hi, I'm Madhura Patil
+<!-- ================= PROFILE HEADER ================= -->
 
-### 💻 Data Science Student | MERN Stack Developer | Java & DSA Enthusiast
+<table>
+<tr>
+<td width="32%" align="center" valign="top">
 
-I'm a **Bachelor of Technology student in Data Science** with a strong interest in **Full-Stack Development, Backend Engineering, and Problem Solving**.
+<img src="https://github.com/Madhurapatil234.png" width="220" style="border-radius:50%;" alt="Madhura Patil GitHub profile photo"/>
 
-I enjoy building scalable web applications, designing REST APIs, working with databases, and exploring technologies related to **performance, caching, and real-time communication**.
+<h2>Madhura Patil</h2>
 
-Currently, I'm focused on strengthening my **MERN Stack, Java, DSA, SQL, and Backend Development** skills through practical projects and continuous learning.
+<p><code>MERN Stack Developer</code></p>
+<p>Software Engineer</p>
+
+<a href="https://github.com/Madhurapatil234">
+<img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+<br/><br/>
+
+Building scalable web apps.<br/>
+Backend APIs • Real-Time Systems<br/>
+Java • DSA • MERN Stack
+
+<br/>
+
+<a href="https://www.linkedin.com/in/madhura-patil-b083972b0/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Madhurapatil234">
+<img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</td>
+
+<td width="68%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20&height=220&section=header&text=Hello%20I'm%20Madhura&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=15&descAlignY=60" width="100%" alt="Hello I'm Madhura banner"/>
+
+<br/>
+
+<h3>🚀 Tech Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,java,python,html,css,tailwind,git,github,docker&theme=dark" alt="Madhura's technology stack"/>
+
+<br/><br/>
+
+<h3>📊 My GitHub Stats</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Madhurapatil234&show_icons=true&theme=dark&hide_border=true" width="95%" alt="GitHub statistics"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
-* 🎓 Pursuing **B.Tech in Data Science** at **KIT's College of Engineering, Kolhapur**
-* 💻 Interested in **Full-Stack & Backend Development**
-* 🌱 Currently learning **MERN Stack, DSA, System Design & Backend Development**
-* ⚡ Interested in **High-Performance APIs, Caching & Real-Time Applications**
-* 🧩 Enjoy solving **Programming & DSA Problems**
-* 🎯 Aspiring to build a career as a **Software / Full-Stack Developer**
+<p align="center">
+I build responsive web applications and backend systems using modern JavaScript technologies.
+I enjoy designing REST APIs, working with databases, optimizing application performance,
+and exploring real-time communication systems.
+</p>
+
+- 💻 Focused on **MERN Stack Development & Software Engineering**
+- ⚙️ Interested in backend engineering, REST APIs and database design
+- 🚀 Exploring caching, scalability and real-time applications
+- 🧠 Practising Java, Data Structures and Algorithms
+- 🎓 B.Tech in Data Science — KIT's College of Engineering, Kolhapur
+- 🌱 Continuously learning by building practical projects
 
 ---
 
-## 🛠️ Technical Skills
+<h2 align="center">🛠️ Technical Skills</h2>
 
 <details>
 <summary><b>👨‍💻 Click to explore my technical skills</b></summary>
 
-<br>
-
-### 💻 Programming Languages
+### Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" alt="Frontend technologies"/>
 </p>
 
-### 🎨 Frontend Development
+HTML5 • CSS3 • JavaScript • React • Vite • Tailwind CSS
+
+### Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis" alt="Backend technologies"/>
 </p>
 
-### ⚙️ Backend Development
+Node.js • Express.js • REST APIs • Socket.IO • Authentication • RBAC • Redis Caching
+
+### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Database technologies"/>
 </p>
 
-### 🗄️ Databases & Caching
+MongoDB • MySQL • Redis
+
+### Programming & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,postman,docker" alt="Programming languages and tools"/>
 </p>
 
-### 🧰 Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+Java • JavaScript • Python • Git • GitHub • VS Code • Postman • Docker
 
 </details>
 
 ---
 
-## 📌 Featured Projects
+<h2 align="center">📌 Featured Projects</h2>
 
-### 🛒 High-Performance E-Commerce Engine
+<h3>🛒 High-Performance E-Commerce Engine</h3>
 
-**MERN | Node.js | Express.js | MongoDB | Redis**
+<p><code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Redis</code></p>
 
-A scalable e-commerce backend focused on **high-performance APIs, efficient data retrieval, and caching**.
+A backend-focused e-commerce project designed around product APIs, efficient data retrieval, search, filtering, pagination and caching.
 
-<details>
-<summary><b>🔍 View Project Details</b></summary>
+- 🔍 Product search, filtering, sorting and pagination
+- ⚡ Redis caching for frequently requested data
+- 🗄️ MongoDB product storage and query optimization
 
-<br>
-
-* Developed REST APIs for **product catalog management**
-* Implemented **pagination** for efficient product retrieval
-* Integrated **Redis using the Cache-Aside pattern**
-* Cached frequently requested product data to reduce database load
-* Improved API efficiency through optimized data retrieval
-* Designed the backend architecture to support future **AI-powered semantic search**
-* Focused on scalability and high-performance backend architecture
-
-**Key Concepts:**
-
-`REST API` `MongoDB` `Redis` `Caching` `Pagination` `Backend Architecture`
-
-</details>
+<a href="https://github.com/Madhurapatil234/high-performance-ecommerce-engine">
+<img src="https://img.shields.io/badge/View_Project-8B2635?style=for-the-badge&logo=github&logoColor=white" alt="View E-Commerce Engine project"/>
+</a>
 
 ---
 
-### 💬 Real-Time B2B SaaS Collaboration Workspace
+<h3>💬 Real-Time B2B SaaS Collaboration Workspace</h3>
 
-**React 19 | JavaScript | Vite | Tailwind CSS | Node.js | Socket.IO | Redis**
+<p><code>React</code> <code>Node.js</code> <code>Socket.IO</code> <code>Redis</code> <code>Tailwind CSS</code></p>
 
-A real-time collaboration platform designed for **team communication, workspaces, channels, and secure collaboration**.
+A real-time collaboration platform designed to support team communication, workspaces, channels and collaborative workflows.
 
-<details>
-<summary><b>🔍 View Project Details</b></summary>
+- 💬 Real-time communication features
+- 🔐 Authentication and role-based access control
+- ⚡ Socket.IO events and Redis-based messaging architecture
 
-<br>
+<a href="https://github.com/Madhurapatil234/realtime-workspace-app">
+<img src="https://img.shields.io/badge/View_Project-8B2635?style=for-the-badge&logo=github&logoColor=white" alt="View collaboration workspace project"/>
+</a>
 
-* Developed **workspace and channel-based collaboration**
-* Built a responsive frontend using **React 19, Vite, and Tailwind CSS**
-* Integrated frontend with backend **REST APIs**
-* Implemented **real-time messaging using Socket.IO**
-* Integrated **Redis** for real-time communication architecture
-* Implemented **JWT-based authentication**
-* Added **Role-Based Access Control (RBAC)**
-* Designed the application with scalability and real-time communication in mind
+---
 
-**Key Concepts:**
+<h3>🤖 AI Interview Analyzer</h3>
 
-`React` `REST APIs` `WebSockets` `Socket.IO` `Redis` `JWT` `RBAC`
+<p><code>MERN Stack</code> <code>Python</code> <code>AI/ML</code> <code>NLP</code> <code>Computer Vision</code></p>
 
-</details>
+A team project focused on AI-assisted interview analysis, combining web application components with AI and speech-related technologies.
 
-## 📚 Currently Learning
+<a href="https://github.com/Madhurapatil234/ai-interview-analyzer">
+<img src="https://img.shields.io/badge/View_Project-8B2635?style=for-the-badge&logo=github&logoColor=white" alt="View AI Interview Analyzer project"/>
+</a>
+
+---
+
+<h2 align="center">📚 Currently Learning</h2>
 
 <details>
 <summary><b>🌱 Click to see what I'm currently learning</b></summary>
 
-<br>
-
-### 🌐 MERN Stack
-
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-
-### 🧩 Problem Solving
-
-* Java
-* Data Structures
-* Algorithms
-* LeetCode
-
-### ⚙️ Backend Development
-
-* Redis
-* Caching
-* Authentication
-* WebSockets
-* Scalable API Design
+- Advanced Node.js and Express.js
+- REST API design and backend architecture
+- MongoDB queries, aggregation and indexes
+- Redis caching and application performance
+- Authentication, authorization and backend security
+- Java Data Structures and Algorithms
+- System design fundamentals
+- Testing and deploying full-stack applications
 
 </details>
 
 ---
 
-## 📈 My Development Focus
+<h2 align="center">📈 GitHub Analytics</h2>
 
-I'm working toward becoming a strong **Full-Stack Developer** with a solid foundation in:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhurapatil234&layout=compact&theme=dark&hide_border=true" alt="Most used programming languages"/>
+</p>
 
-**Frontend → Backend → Databases → APIs → Caching → Real-Time Systems → DSA**
-
-I believe in learning by **building real-world projects**, understanding the fundamentals, solving problems, and continuously improving my development skills.
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-
-<a href="(https://www.linkedin.com/in/madhura-patil-b083972b0/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:madhurapatil822@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="(https://github.com/Madhurapatil234)">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Madhurapatil234&theme=dark&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-## 💡 Developer Quote
+<h2 align="center">🎯 My Development Focus</h2>
 
-> **"Build. Break. Learn. Improve. Repeat."**
+<p align="center">
+Frontend → Backend → Databases → REST APIs → Caching → Real-Time Systems → DSA
+</p>
+
+I believe in learning by building real-world projects, understanding fundamentals, solving problems, and continuously improving my development skills.
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<h2 align="center">🤝 Let's Connect</h2>
 
-If you find my projects interesting, feel free to explore my repositories and connect with me.
+<p align="center">
+<a href="https://github.com/Madhurapatil234">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/madhura-patil-b083972b0/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
 
-**Happy Coding! 🚀**
+<h3 align="center">💡 Developer Quote</h3>
+
+<p align="center">
+<i>"Build. Break. Learn. Improve. Repeat."</i>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
+
+<p align="center">Happy Coding! 🚀</p>
